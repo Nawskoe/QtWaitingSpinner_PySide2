@@ -27,7 +27,7 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = ">=3.7"
-PyQt5 = ">5.8"
+PySide2 = ">5.15"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.3"
